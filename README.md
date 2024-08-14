@@ -13,4 +13,4 @@ Proje02
 
 Toplama, çıkarma, bölme ve çarpma yapmak için kullanılan tkinter ile oluşturulmuş ve kullanıcıdan 2 tane ondalıklı sayı alıp dört işlem yapan hesap makinesi uygulamasıdır.
 
-Proje bağlantısı: 
+Proje bağlantısı: Proje 02.py
