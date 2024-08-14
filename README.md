@@ -7,5 +7,5 @@ Proje01
 
 Kullanıcıdan alınan iki tam sayı ile aritmetiksel işlemler yapan basit bir hesap makinesi uygulamasıdır.
 
-Proje bağlantısı:
+Proje bağlantısı: python işlemler 1.py
 
